@@ -5,9 +5,9 @@
 <events>
   <track type="1" name="Dr. B">
     <event>
-      <title>Dr. B Graduates College</title>
+      <title>Jack's journey for world domination begins</title>
       <date type="start">
-        <year>1993</year>
+        <year>2004</year>
         <month>05</month>
         <era>AD</era>
       </date>
@@ -16,15 +16,15 @@
         <month>05</month>
         <era>AD</era>
       </date>
-      <description>Dr. B graduates from Washington and Jefferson College, and looks ahead to starting grad school at Penn State.</description>
-      <lat>40.174</lat>
-      <lon>-80.2462</lon>
+      <description>Words words test</description>
+      <lat>51.2789</lat>
+      <lon>1.1713</lon>
       <media>https://www.washjeff.edu/wp-content/uploads/oldmain_2018_04-1.jpg</media>
     </event>
     <event>
-      <title>Dr. B works on something</title>
+      <title>Jack invents the paperclip</title>
       <date type="start">
-        <year>1990</year>
+        <year>2005</year>
         <month>05</month>
         <era>AD</era>
       </date>
@@ -33,9 +33,41 @@
         <month>05</month>
         <era>AD</era>
       </date>
-      <description>Dr. B works on something that overlaps in time.</description>
-      <lat>42.174</lat>
-      <lon>-80.2462</lon>
+      <description>Jack bends an innocent rod, and uses the new bendy metal to stick papers together.</description>
+      <lat>51.1789</lat>
+      <lon>1.2713</lon>
+    </event>
+    <event>
+      <title>Jack destroys the paperclip</title>
+      <date type="start">
+        <year>2005</year>
+        <month>06</month>
+        <era>AD</era>
+      </date>
+      <date type="end">
+        <year>2005</year>
+        <month>06</month>
+        <era>AD</era>
+      </date>
+      <description>Jack destroys the bendy metal rod after the paperclip massacre.</description>
+      <lat>51.1789</lat>
+      <lon>1.2813</lon>
+    </event>
+    <event>
+      <title>Jack laments one year since the destruction of the paperclip (on a boat).</title>
+      <date type="start">
+        <year>2006</year>
+        <month>06</month>
+        <era>AD</era>
+      </date>
+      <date type="end">
+        <year>2006</year>
+        <month>06</month>
+        <era>AD</era>
+      </date>
+      <description>It has been one year since the paperclip was destroyed.</description>
+      <lat>51.0789</lat>
+      <lon>1.2713</lon>
     </event>
   </track>
   <track type="2" name="Roma"> 
